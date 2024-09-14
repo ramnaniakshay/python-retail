@@ -111,3 +111,4 @@ if x==10 and y==20 and z==50:
 else:
     print("nothing is matching")
 
+
