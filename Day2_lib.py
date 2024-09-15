@@ -90,13 +90,15 @@ tomorrow= today + datetime.timedelta(days=1)
 print(tomorrow)
 
 
-
+# continue we can use skip
 #for loop continue keyword
 
 for numbers in range(1,15):
     if numbers==7:
         continue
     print(numbers)
+
+
 
 
 
